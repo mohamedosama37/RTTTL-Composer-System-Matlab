@@ -1,0 +1,2 @@
+# RTTTL-Composer-System-Matlab
+RTTTL Composer System In this assignment, it is required to listen to the tones with different frequencies and how they can be used to generate music segments. Long time ago, Nokia invented RTTTL. https://en.wikipedia.org/wiki/Ring_Tone_Transfer_Language It is required to develop a generic RTTTL composer. The input to the composer should be any RTTTL note, and the output is a wav file corresponding to the note. Here are some sample notes that you can test with http://www.fodor.sk/Spectrum/rttl.htm
